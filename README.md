@@ -1,1 +1,1 @@
-# operations-in-python
+# operators-in-python
